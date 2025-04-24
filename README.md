@@ -28,8 +28,8 @@ I take times (research) to get used to it.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MgMyatHtayKhant/four-card-feature-section-master)
-- Live Site URL: [Add live site URL here](https://four-card-main.netlify.app/)
+- Solution URL: [Solution URL here](https://github.com/MgMyatHtayKhant/four-card-feature-section-master)
+- Live Site URL: [Live site URL here](https://four-card-main.netlify.app/)
 
 ## My process
 
@@ -86,7 +86,7 @@ I learned about how to use grid properly.
 ## Author
 
 - Website - [Saul](https://saul-homepage.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Saul](https://www.frontendmentor.io/profile/MgMyatHtayKhant)
 
 ## Acknowledgments
 
